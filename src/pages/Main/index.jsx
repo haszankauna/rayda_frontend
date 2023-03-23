@@ -167,7 +167,7 @@ const MainPage = () => {
                     {mainCardPropList.map((props, index) => (
                       <React.Fragment key={`MainCard${index}`}>
                         <MainCard
-                          className="bg-white_A700 border-[1px] border-bluegray_100 border-solid flex flex-1 flex-col items-start justify-start p-[12px] rounded-[12px] w-[100%]"
+                          className="bg-white_A700 border-[1px] border-bluegray_100 border-solid pt-3 flex flex-1 flex-col items-start justify-start p-[12px] rounded-[12px] w-[100%]"
                           avatar="KO"
                           text="Koray Okumus (Highest Bidder)"
                           currentbid="Current Bid:"

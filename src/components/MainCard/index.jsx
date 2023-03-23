@@ -22,7 +22,7 @@ const MainCard = (props) => {
             </Text>
             <div className="flex items-start justify-start self-stretch w-[auto]">
               <Text
-                className="font-ibmplexsans font-semibold text-gray_900 text-left w-[auto]"
+                className="font-ibmplexsans font-semibold text-gray_900 text-left pt-3 w-[auto]"
                 as="h6"
                 variant="h6"
               >
